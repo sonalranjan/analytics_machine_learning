@@ -1,0 +1,5 @@
+
+Description of the directories:
+* data_scripts : python and awk/bash scripts for massaging/preprocessing the data
+* naive_bayes : R-code using naive_bayes [ stratified sampling, cross validation, ROC/AUC calculation ]
+* random_forest :  [ stratified sampling, cross validation (iterations on: nTree, nTry(#attrs), ), ROC/AUC calculation ]
